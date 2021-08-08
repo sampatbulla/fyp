@@ -1,8 +1,6 @@
 # Handwriting OCR
 The project tries to create software for recognition of a handwritten text from photos (also for Czech language). It uses computer vision and machine learning. And it experiments with different approaches to the problem. It started as a school project which I got a chance to present on Intel ISEF 2018.
 
-<p align="center"><img src ="doc/imgs/poster.png?raw=true" height="340" alt="Sublime's custom image" /></p>
-
 ## Program Structure
 Proces of recognition is divided into 4 steps. The initial input is a photo of page with text.
 
